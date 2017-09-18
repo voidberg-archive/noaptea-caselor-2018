@@ -1,0 +1,16 @@
+{
+  "domains": [""],
+  "globals": {
+    "site_title": "Noaptea Caselor 2016",
+    "twitter": "",
+    "site_url": "http://noapteacaselor.ro",
+    "disqus": {
+      "enabled": false,
+      "shortname": ""
+    },
+    "sitemap": {
+      "enabled": true,
+      "changefreq": "weekly"
+    }
+  }
+}

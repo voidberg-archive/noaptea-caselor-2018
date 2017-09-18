@@ -1,0 +1,51 @@
+article.house(id='#{slug}')
+  .container
+    .row
+      .col-xs-12
+        .house-byline
+          h3 #{byline}
+        .house-carousel
+          each image in images
+            div.house-carousel__image(style='background-image:url("./assets/images/#{image}")')
+
+        if facebook != '' || gmap != '' || facebook_event != ''
+          ul.house-externals
+            if facebook != ''
+              li
+                a.house-externals__facebook(href='#{facebook}', target='_blank') Facebook
+            if facebook_event != ''
+              li
+                a.house-externals__facebook-event(href='#{facebook_event}', target='_blank') Facebook Event
+            if gmap != ''
+              li
+                a.house-externals__gmap(href='#{gmap}', target='_blank') Google Maps
+
+        h2 #{name}
+
+        if address != '' || contacts != ''
+          .house-contacts-container
+            if address != ''
+              .house-address
+                p #{address}
+
+            if contacts
+              .house-contact
+                each contact in contacts
+                  if contact.type == 'phone'
+                    p #{contact.value}
+                  if contact.type == 'email'
+                    p
+                      a(href='mailto:#{contact.value}') #{contact.value}
+                  if contact.type == 'url'
+                    p
+                      a(href='#{contact.value}', target='_blank') #{contact.display}
+
+        != yield
+
+        .house-externals-gmap
+          h3
+            hr
+            a(href='#{gmap}', target='_blank') vezi #{name} pe google maps
+            hr
+
+        a.house-top(href='#top') Sus

@@ -1,0 +1,10 @@
+{
+	"rss": {
+		"enabled": false,
+		"layout": false
+	},
+	"sitemap": {
+		"enabled": false,
+		"layout": false
+	}
+}

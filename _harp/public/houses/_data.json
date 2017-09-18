@@ -1,0 +1,174 @@
+{
+  "aici": {
+    "name": "AICI",
+    "byline": "",
+    "address": "Calderon 25",
+    "gmap": "https://www.google.com/maps/d/u/0/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
+    "facebook": "https://www.facebook.com/aiciarhitectura",
+    "facebook_event": "http://www.facebook.com/events/178624489210548",
+    "images": [
+      "house-aici-01.jpg"
+    ]
+  },
+  "avanpost8": {
+    "name": "Avanpost8",
+    "byline": "",
+    "address": "Crăciun 8",
+    "gmap": "https://www.google.com/maps/d/u/0/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
+    "facebook": "https://www.facebook.com/avanpost8/",
+    "facebook_event": "https://www.facebook.com/events/1088382627924757/",
+    "images": [
+      "house-avanpost-01.jpg"
+    ]
+  },
+  "carol53": {
+    "name": "Carol53",
+    "byline": "",
+    "address": "Carol I. 53",
+    "gmap": "https://www.google.com/maps/d/u/0/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
+    "facebook": "https://www.facebook.com/casacarol53/",
+    "facebook_event": "https://www.facebook.com/events/1819711904936491",
+    "images": [
+      "house-carol-01.jpg"
+    ]
+  },
+  "casa-jurnalistului": {
+    "name": "Casa Jurnalistului",
+    "byline": "",
+    "address": "Viitorului 154",
+    "gmap": "https://www.google.com/maps/d/u/0/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
+    "facebook": "https://www.facebook.com/casa.jurnalistului/",
+    "facebook_event": "",
+    "images": [
+      "house-jurnalistului-01.png"
+    ]
+  },
+  "casa-lupu": {
+    "name": "Casa Lupu",
+    "byline": "",
+    "address": "Dionisie Lupu 31",
+    "gmap": "https://www.google.com/maps/d/u/0/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
+    "facebook": "https://www.facebook.com/Casa-Lupu-706034536194545/",
+    "facebook_event": "",
+    "images": [
+      "house-lupu-01.jpg"
+    ]
+  },
+  "cetatea-artelor": {
+    "name": "Cetatea Artelor",
+    "byline": "",
+    "address": "Henri Coandă 38",
+    "gmap": "https://www.google.com/maps/d/u/0/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
+    "facebook": "https://www.facebook.com/centrulcetateaartelor/",
+    "facebook_event": "http://www.fb.com/events/655387501288004",
+    "images": [
+      "house-cetatea-01.jpg"
+    ]
+  },
+  "colivia": {
+    "name": "Colivia",
+    "byline": "",
+    "address": "Pache Protopopescu 9",
+    "contacts": [
+      {
+        "type": "url",
+        "value": "http://www.funky.ong",
+        "display": "www.funky.ong"
+      }
+    ],
+    "gmap": "https://www.google.com/maps/d/u/0/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
+    "facebook": "https://www.facebook.com/ColiviaLuVrabioiu/",
+    "facebook_event": "https://www.facebook.com/events/1236920559693774/",
+    "images": [
+      "house-colivia-01.jpg"
+    ]
+  },
+  "czvl12": {
+    "name": "CZVL12",
+    "byline": "",
+    "address": "Luigi Cazzavillan 12",
+    "gmap": "https://www.google.com/maps/d/u/0/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
+    "facebook": "https://www.facebook.com/CZLV12/",
+    "facebook_event": "",
+    "images": [
+      "house-czvl-01.jpg"
+    ]
+  },
+  "efden": {
+    "name": "EFdeN",
+    "byline": "",
+    "address": "Pache Protopopescu 66",
+    "gmap": "https://www.google.com/maps/d/u/0/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
+    "facebook": "https://www.facebook.com/EFdeN.casa.solara.eficienta.energetic/",
+    "facebook_event": "http://www.fb.com/events/541314896077647/",
+    "images": [
+      "house-efden-01.jpg"
+    ]
+  },
+  "gradina-sticlarilor": {
+    "name": "Gradina Sticlarilor",
+    "byline": "",
+    "address": "Vasile Lascăr 36",
+    "gmap": "https://www.google.com/maps/d/u/0/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
+    "facebook": "https://www.facebook.com/gradinasticlarilor/",
+    "facebook_event": "",
+    "images": [
+      "house-gradina-01.jpg"
+    ]
+  },
+  "home-matasari": {
+    "name": "Home Matasari",
+    "byline": "",
+    "address": "Mătăsari 17",
+    "gmap": "https://www.google.com/maps/d/u/0/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
+    "facebook": "https://www.facebook.com/Home-Matasari-111608808922130/",
+    "facebook_event": "",
+    "images": [
+      "house-matasari-01.jpg"
+    ]
+  },
+  "insula42": {
+    "name": "Insula42",
+    "byline": "",
+    "address": "Theodor Aman 42",
+    "gmap": "https://www.google.com/maps/d/u/0/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
+    "facebook": "https://www.facebook.com/insula42/",
+    "facebook_event": "https://www.facebook.com/events/693632937466349/",
+    "images": [
+      "house-insula-01.jpg"
+    ]
+  },
+  "manasia-hub": {
+    "name": "Manasia Hub",
+    "byline": "",
+    "address": "Stelea Spătarul 13",
+    "gmap": "https://www.google.com/maps/d/u/0/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
+    "facebook": "https://www.facebook.com/manasiahub/",
+    "facebook_event": "https://www.facebook.com/events/552435738282776/",
+    "images": [
+      "house-manasia-01.jpg"
+    ]
+  },
+  "modulab": {
+    "name": "Modulab",
+    "byline": "",
+    "address": "Viitorului 153",
+    "gmap": "https://www.google.com/maps/d/u/0/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
+    "facebook": "https://www.facebook.com/gradinaviitorului.ro/",
+    "facebook_event": "",
+    "images": [
+      "house-modulab-01.jpg"
+    ]
+  },
+  "the-room": {
+    "name": "The Room",
+    "byline": "",
+    "address": "Intrarea Mihai Eminescu 5",
+    "gmap": "https://www.google.com/maps/d/u/0/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
+    "facebook": "https://www.facebook.com/seabamgallery/",
+    "facebook_event": "http://www.fb.com/events/341251686222218",
+    "images": [
+      "house-room-01.jpg"
+    ]
+  }
+}

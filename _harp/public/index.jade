@@ -1,0 +1,64 @@
+header#top
+  .container
+    .row
+      .col-sm-12.col-xs-12.col-sm-12.col-md-5
+        .header__branding
+          h1
+            img.img-responsive(src='./assets/images/logo.png', alt='Noaptea Caselor 2016, Un circuit al spatiilor domestic-culturale')
+      .col-sm-12.col-xs-12.col-sm-12.col-md-7
+        #map-popup
+          p.popup__title AICI
+          p.popup__address Calderon 25
+          p.popup__description Expoziţii, instalaţii, muzică şi dichisuri. Tencuim căsuţa de la Urban Fest sub atenta îndrumare a celor de la 3e-concept.ro, care ne învaţă să facem lucruri trainice cu mânuţe proprii.
+        .header__map
+          img.img-responsive(src='./assets/images/map.png', usemap='#header-map')
+
+          map#header-map(name="header-map")
+            area(id="manasia" alt="Manasia Hub" title="Manasia Hub" href="" coords="341,611,50" shape="circle")
+            area(id="aici" alt="Aici" title="Aici" href="" coords="318,467,23" shape="circle")
+            area(id="gradina" alt="Gradina Sticlarilor" title="Gradina Sticlarilor" href="" coords="367,448,26" shape="circle")
+            area(id="carol" alt="Carol 53" title="Carol 53" href="" coords="430,489,42" shape="circle")
+            area(id="czvl" alt="CZVL 12" title="CZVL 12" href="" coords="59,415,21" shape="circle")
+            area(id="insula" alt="Insula 42" title="Insula 42" href="" coords="74,379,19" shape="circle")
+            area(id="lupu" alt="Casa Lupu" title="Casa Lupu" href="" coords="273,403,37" shape="circle")
+            area(id="cetatea" alt="Cetatea Artelor" title="Cetatea Artelor" href="" coords="123,257,38" shape="circle")
+            area(id="avanpost" alt="Avanpost" title="Avanpost" href="" coords="213,217,40" shape="circle")
+            area(id="room" alt="The Room" title="The Room" href="" coords="300,262,53" shape="circle")
+            area(id="casa" alt="Casa Jurnalistului" title="Casa Jurnalistului" href="" coords="500,239,22" shape="circle")
+            area(id="modulab" alt="Modulab" title="Modulab" href="" coords="488,279,20" shape="circle")
+            area(id="colivia" alt="Colivia" title="Colivia" href="" coords="569,460,26" shape="circle")
+            //- area(id="visini" alt="Visini Hub" title="Visini Hub" href="" coords="584,537,39" shape="circle")
+            area(id="efden" alt="Efden" title="Efden" href="" coords="637,443,26" shape="circle")
+            area(id="matasari" alt="Home Matasari" title="Home Matasari" href="" coords="674,479,25" shape="circle")
+
+article#intro
+  .container
+    .row
+      .col-sm-12
+        p În ultimul timp, cele mai interesante chestii din București se petrec prin case, conace și apartamente, unde s-au adunat comunități care se joacă cu idei tot mai îndrăznețe.
+        p Cei care au avut inițiative social-culturale s-au izbit de multe ori de autorități ostile și un mediu social apatic. Dezamăgiți, s-au retras în spațiul personal, la joburile de zi cu zi și la casele lor. Însă spiritul creativ a continuat să lucreze în cerc restrâns.
+        p Prietenii au început să se implice, apoi prietenii prietenilor, apoi întregi comunități care schimbau idei, făceau proiecte și se distrau de minune. Casele se transformau încet din dormitoare în mici centre culturale.
+        p Fiecare dintre ele a ajuns focar de inovație și de spirit liber, care injectează sens în viețile celor implicați. Împreună pot face o rețea culturală descentralizată, care să umple golul lăsat de instituțiile oficiale și greoaie. E ușor să decapiteze un institut, dar o rețea informală e foarte rezistentă cât timp comunitățile ei sunt vii.
+        p Noaptea Caselor e o punte între aceste comunități. E un eveniment care dă coerență unui nou curent cultural. Mai personal, mai liber, mai eficient, mai mișto.
+        p Haideți cu noi!
+
+article#menu
+  .container
+    .row
+      .col-xs-12
+        #map
+  .container
+    .row
+      .col-xs-12
+        ul.menu
+          each house, slug in public.houses._data
+            li.menu__entry
+              h3.menu__entry__title
+                a(href='##{slug}') #{house.name}
+              p.menu__entry__address
+                a(href='##{slug}') #{house.address}
+
+each house, slug in public.houses._data
+  - house.yield = partial("/houses/" + slug, house)
+  - house.slug = slug
+  != partial("/_partials/_house", house)

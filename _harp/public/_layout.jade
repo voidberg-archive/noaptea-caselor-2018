@@ -1,0 +1,12 @@
+doctype
+html(lang="ro")
+  head
+    meta(charset="utf-8")
+    meta(name="viewport", content="width=device-width, initial-scale=1.0")
+    title #{ site_title }
+    link(rel="stylesheet", href="./assets/css/noaptea.css")
+  body(class="page-#{ current.path[0] } #{ current.path.join('-') }")
+    != yield
+    != partial("_partials/_footer")
+    script(src='https://maps.googleapis.com/maps/api/js?key=AIzaSyBTTf5TimbynGlP5KHoq0BeKcbR5z6S4f0')
+    script(src="./assets/js/app-min.js")
