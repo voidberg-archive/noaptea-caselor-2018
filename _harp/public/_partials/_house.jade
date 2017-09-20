@@ -20,7 +20,8 @@ article.house(id='#{slug}')
               li
                 a.house-externals__gmap(href='#{gmap}', target='_blank') Google Maps
 
-        h2 #{name}
+        h2.house__title
+          img(src="./assets/images/titles/#{slug}.png" alt='#{name}')
 
         if address != '' || contacts != ''
           .house-contacts-container

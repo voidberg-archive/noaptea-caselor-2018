@@ -6288,10 +6288,15 @@ header .header__map img {
   background-image: url('../images/contact-fe.png');
 }
 .house h2 {
-  margin-top: 1rem;
-  margin-bottom: 1rem;
+  margin-top: 0;
+  margin-bottom: 0;
   font-size: 3rem;
   line-height: 3rem;
+}
+.house h2 img {
+  margin-left: -20px;
+  margin-top: -70px;
+  margin-bottom: -30px;  
 }
 .house h5 {
   font-size: 1.5rem;
