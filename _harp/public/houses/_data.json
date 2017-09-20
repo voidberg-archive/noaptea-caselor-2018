@@ -1,22 +1,11 @@
 {
-  "aici": {
-    "name": "AICI",
-    "byline": "",
-    "address": "Calderon 25",
-    "gmap": "https://www.google.com/maps/d/u/0/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
-    "facebook": "https://www.facebook.com/aiciarhitectura",
-    "facebook_event": "http://www.facebook.com/events/178624489210548",
-    "images": [
-      "house-aici-01.jpg"
-    ]
-  },
   "avanpost8": {
     "name": "Avanpost8",
     "byline": "",
     "address": "Crăciun 8",
     "gmap": "https://www.google.com/maps/d/u/0/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
     "facebook": "https://www.facebook.com/avanpost8/",
-    "facebook_event": "https://www.facebook.com/events/1088382627924757/",
+    "facebook_event": "",
     "images": [
       "house-avanpost-01.jpg"
     ]
@@ -27,7 +16,7 @@
     "address": "Carol I. 53",
     "gmap": "https://www.google.com/maps/d/u/0/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
     "facebook": "https://www.facebook.com/casacarol53/",
-    "facebook_event": "https://www.facebook.com/events/1819711904936491",
+    "facebook_event": "https://www.facebook.com/events/123323921723610/",
     "images": [
       "house-carol-01.jpg"
     ]
@@ -37,10 +26,10 @@
     "byline": "",
     "address": "Viitorului 154",
     "gmap": "https://www.google.com/maps/d/u/0/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
-    "facebook": "https://www.facebook.com/casa.jurnalistului/",
+    "facebook": "https://www.facebook.com/events/512712752395409/",
     "facebook_event": "",
     "images": [
-      "house-jurnalistului-01.png"
+      "house-jurnalistului-01.jpg"
     ]
   },
   "casa-lupu": {
@@ -52,17 +41,6 @@
     "facebook_event": "",
     "images": [
       "house-lupu-01.jpg"
-    ]
-  },
-  "cetatea-artelor": {
-    "name": "Cetatea Artelor",
-    "byline": "",
-    "address": "Henri Coandă 38",
-    "gmap": "https://www.google.com/maps/d/u/0/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
-    "facebook": "https://www.facebook.com/centrulcetateaartelor/",
-    "facebook_event": "http://www.fb.com/events/655387501288004",
-    "images": [
-      "house-cetatea-01.jpg"
     ]
   },
   "colivia": {
@@ -78,9 +56,21 @@
     ],
     "gmap": "https://www.google.com/maps/d/u/0/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
     "facebook": "https://www.facebook.com/ColiviaLuVrabioiu/",
-    "facebook_event": "https://www.facebook.com/events/1236920559693774/",
+    "facebook_event": "https://www.facebook.com/events/500196487005644/",
     "images": [
       "house-colivia-01.jpg"
+    ]
+  },
+  "costa-foru": {
+    "name": "Costa-Foru",
+    "byline": "",
+    "address": "Aleea Dealul Mitropoliei 7",
+    "contacts": [],
+    "gmap": "https://www.google.com/maps/d/u/0/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
+    "facebook": "https://www.facebook.com/casacostaforu7/",
+    "facebook_event": "https://www.facebook.com/events/1904087263185109/",
+    "images": [
+      "house-costa-01.jpg"
     ]
   },
   "czvl12": {
@@ -89,7 +79,7 @@
     "address": "Luigi Cazzavillan 12",
     "gmap": "https://www.google.com/maps/d/u/0/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
     "facebook": "https://www.facebook.com/CZLV12/",
-    "facebook_event": "",
+    "facebook_event": "https://www.facebook.com/events/356060068155676/",
     "images": [
       "house-czvl-01.jpg"
     ]
@@ -100,7 +90,7 @@
     "address": "Pache Protopopescu 66",
     "gmap": "https://www.google.com/maps/d/u/0/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
     "facebook": "https://www.facebook.com/EFdeN.casa.solara.eficienta.energetic/",
-    "facebook_event": "http://www.fb.com/events/541314896077647/",
+    "facebook_event": "https://www.facebook.com/events/1972236229691895/",
     "images": [
       "house-efden-01.jpg"
     ]
@@ -111,7 +101,7 @@
     "address": "Vasile Lascăr 36",
     "gmap": "https://www.google.com/maps/d/u/0/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
     "facebook": "https://www.facebook.com/gradinasticlarilor/",
-    "facebook_event": "",
+    "facebook_event": "https://www.facebook.com/events/571003053023303/",
     "images": [
       "house-gradina-01.jpg"
     ]
@@ -121,7 +111,7 @@
     "byline": "",
     "address": "Mătăsari 17",
     "gmap": "https://www.google.com/maps/d/u/0/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
-    "facebook": "https://www.facebook.com/Home-Matasari-111608808922130/",
+    "facebook": "",
     "facebook_event": "",
     "images": [
       "house-matasari-01.jpg"
@@ -133,7 +123,7 @@
     "address": "Theodor Aman 42",
     "gmap": "https://www.google.com/maps/d/u/0/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
     "facebook": "https://www.facebook.com/insula42/",
-    "facebook_event": "https://www.facebook.com/events/693632937466349/",
+    "facebook_event": "https://www.facebook.com/events/512712752395409/permalink/516422595357758/",
     "images": [
       "house-insula-01.jpg"
     ]
@@ -144,29 +134,36 @@
     "address": "Stelea Spătarul 13",
     "gmap": "https://www.google.com/maps/d/u/0/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
     "facebook": "https://www.facebook.com/manasiahub/",
-    "facebook_event": "https://www.facebook.com/events/552435738282776/",
+    "facebook_event": "https://www.facebook.com/events/1543699602354492/",
     "images": [
       "house-manasia-01.jpg"
     ]
   },
-  "modulab": {
-    "name": "Modulab",
+  "sbang": {
+    "name": "SBang",
     "byline": "",
-    "address": "Viitorului 153",
+    "address": "Jean Louis Calderon 33",
     "gmap": "https://www.google.com/maps/d/u/0/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
-    "facebook": "https://www.facebook.com/gradinaviitorului.ro/",
+    "facebook": " https://www.facebook.com/SBangMaker/",
     "facebook_event": "",
     "images": [
-      "house-modulab-01.jpg"
+      "house-sbang-01.jpg"
     ]
   },
-  "the-room": {
-    "name": "The Room",
+  "scrie-despre-tine": {
+    "name": "Scrie despre tine",
     "byline": "",
-    "address": "Intrarea Mihai Eminescu 5",
+    "address": "Căderea Bastiliei 56-58",
     "gmap": "https://www.google.com/maps/d/u/0/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
-    "facebook": "https://www.facebook.com/seabamgallery/",
-    "facebook_event": "http://www.fb.com/events/341251686222218",
+    "facebook": "https://www.facebook.com/Scriedespretine/",
+    "facebook_event": "https://www.facebook.com/events/512712752395409/permalink/516456032021081/",
+    "contacts": [
+      {
+        "type": "url",
+        "value": "https://writeyourselfproject.wordpress.com/",
+        "display": "writeyourselfproject.wordpress.com"
+      }
+    ],
     "images": [
       "house-room-01.jpg"
     ]
