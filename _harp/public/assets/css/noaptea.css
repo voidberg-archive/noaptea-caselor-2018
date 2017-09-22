@@ -6089,13 +6089,15 @@ iframe {
 /* Medium devices (desktops, 992px and up) */
 /* Large devices (large desktops, 1200px and up) */
 header {
-  margin: 6rem auto;
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background: #000033;
 }
 header h2 {
   color: #FF9D1C;
 }
-header .header__branding {
-  text-align: center;
+header .header__branding img {
+  margin: 0 auto;
 }
 header .header__map {
   text-align: center;
@@ -6103,43 +6105,15 @@ header .header__map {
 header .header__map img {
   margin: 0 auto;
 }
-#map-popup {
-  width: 400px;
-  min-height: 200px;
-  border: 3px dotted #2A2A86;
-  position: absolute;
-  background: white;
-  padding: 1rem;
-  display: none;
-}
-#map-popup p {
-  margin-bottom: 0;
-}
-#map-popup .popup__title {
-  font-family: 'northbergen';
-  text-transform: uppercase;
-  color: #FF9D1E;
-  font-size: 1rem;
-  line-height: 1.75rem;
-}
-#map-popup .popup__address {
-  color: #FF9D1E;
-  font-size: 1rem;
-  line-height: 1.75rem;
-}
-#map-popup .hours {
-  color: #FF9D1E;
-}
-#map-popup .popup__description {
-  color: #2A2A86;
-  font-size: 1rem;
-  line-height: 1.75rem;
-}
+
 /* Small devices (tablets, 768px and up) */
 /* Medium devices (desktops, 992px and up) */
 @media (min-width: 992px) {
   header .header__branding {
-    margin-top: 70px;
+    margin-top: 100px;
+  }
+  header .header__branding img {
+    margin: 0 auto;
   }
 }
 /* Large devices (large desktops, 1200px and up) */
