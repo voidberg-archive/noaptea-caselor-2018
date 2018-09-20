@@ -1,46 +1,137 @@
 {
+  "atelier-lsm": {
+    "name": "Atelier LSM",
+    "byline": "",
+    "address": "Vasile Lascăr 39",
+    "gmap": "https://www.google.com/maps/d/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
+    "facebook": "https://www.facebook.com/pages/Atelier-Lucian-Sandu-Milea/173020900027371",
+    "facebook_event": "",
+    "images": [
+    ]
+  },
   "avanpost8": {
     "name": "Avanpost8",
     "byline": "",
     "address": "Crăciun 8",
-    "gmap": "https://www.google.com/maps/d/u/0/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "avanpost8@gmail.com",
+        "display": "avanpost8@gmail.com"
+      },
+      {
+        "type": "phone",
+        "value": "0723494797",
+        "display": "David"
+      }
+    ],
+    "gmap": "https://www.google.com/maps/d/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
     "facebook": "https://www.facebook.com/avanpost8/",
     "facebook_event": "",
     "images": [
-      "house-avanpost-01.jpg"
+      "house-avanpost8-01.jpg"
     ]
   },
   "carol53": {
     "name": "Carol53",
     "byline": "",
     "address": "Carol I. 53",
-    "gmap": "https://www.google.com/maps/d/u/0/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "casacarol53@gmail.com",
+        "display": "casacarol53@gmail.com"
+      },
+      {
+        "type": "phone",
+        "value": "0742537986",
+        "display": "Lucian Sandu-Milea"
+      }
+    ],
+    "gmap": "https://www.google.com/maps/d/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
     "facebook": "https://www.facebook.com/casacarol53/",
-    "facebook_event": "https://www.facebook.com/events/123323921723610/",
+    "facebook_event": "",
     "images": [
-      "house-carol-01.jpg"
+      "house-carol53-01.jpg"
+    ]
+  },
+  "casa-activistului": {
+    "name": "Casa Activistului",
+    "byline": "",
+    "address": "Educației 32",
+    "gmap": "https://www.google.com/maps/d/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
+    "facebook": "https://www.facebook.com/CasaActivistului/",
+    "facebook_event": "",
+    "images": [
+      
+    ]
+  },
+  "casa-conspirativa": {
+    "name": "Casa Conspirativa",
+    "byline": "",
+    "address": "Pache Protopopescu 214",
+    "gmap": "https://www.google.com/maps/d/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
+    "facebook": "https://www.facebook.com/CasaConspirativa/",
+    "facebook_event": "",
+    "images": [
+      
+    ]
+  },
+  "casa-doda": {
+    "name": "Casa Doda",
+    "byline": "",
+    "address": "General Doda Traian 3",
+    "gmap": "https://www.google.com/maps/d/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
+    "facebook": "https://m.facebook.com/atelierdepielarie/",
+    "facebook_event": "",
+    "images": [
+      
     ]
   },
   "casa-jurnalistului": {
     "name": "Casa Jurnalistului",
     "byline": "",
     "address": "Viitorului 154",
-    "gmap": "https://www.google.com/maps/d/u/0/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
-    "facebook": "https://www.facebook.com/events/512712752395409/",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "timea.hont@gmail.com",
+        "display": "timea.hont@gmail.com"
+      },
+      {
+        "type": "phone",
+        "value": "0753185677",
+        "display": "Timea Honț"
+      }
+    ],
+    "gmap": "https://www.google.com/maps/d/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
+    "facebook": "",
     "facebook_event": "",
     "images": [
-      "house-jurnalistului-01.jpg"
+      "house-casajurnalistului-01.jpg"
     ]
   },
   "casa-lupu": {
     "name": "Casa Lupu",
     "byline": "",
     "address": "Dionisie Lupu 31",
-    "gmap": "https://www.google.com/maps/d/u/0/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "lorant.mihat@calup.ro",
+        "display": "lorant.mihat@calup.ro"
+      },
+      {
+        "type": "phone",
+        "value": "0723316002",
+        "display": "Lorant Mihat"
+      }
+    ],    
+    "gmap": "https://www.google.com/maps/d/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
     "facebook": "https://www.facebook.com/Casa-Lupu-706034536194545/",
     "facebook_event": "",
     "images": [
-      "house-lupu-01.jpg"
+      "house-casalupu-01.jpg"
     ]
   },
   "colivia": {
@@ -49,14 +140,19 @@
     "address": "Pache Protopopescu 9",
     "contacts": [
       {
-        "type": "url",
-        "value": "http://www.funky.ong",
-        "display": "www.funky.ong"
+        "type": "email",
+        "value": "cosmin@funky.ong",
+        "display": "cosmin@funky.ong"
+      },
+      {
+        "type": "phone",
+        "value": "0799777480",
+        "display": "Cosmin Pojoranu"
       }
     ],
-    "gmap": "https://www.google.com/maps/d/u/0/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
+    "gmap": "https://www.google.com/maps/d/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
     "facebook": "https://www.facebook.com/ColiviaLuVrabioiu/",
-    "facebook_event": "https://www.facebook.com/events/500196487005644/",
+    "facebook_event": "",
     "images": [
       "house-colivia-01.jpg"
     ]
@@ -65,107 +161,144 @@
     "name": "Costa-Foru",
     "byline": "",
     "address": "Aleea Dealul Mitropoliei 7",
-    "contacts": [],
-    "gmap": "https://www.google.com/maps/d/u/0/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "casacostaforu@gmail.com",
+        "display": "casacostaforu@gmail.com"
+      },
+      {
+        "type": "phone",
+        "value": "0721155522",
+        "display": "Lucian Bărăitaru"
+      }
+    ],
+    "gmap": "https://www.google.com/maps/d/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
     "facebook": "https://www.facebook.com/casacostaforu7/",
-    "facebook_event": "https://www.facebook.com/events/1904087263185109/",
+    "facebook_event": "",
     "images": [
-      "house-costa-01.jpg"
+      "house-costaforu-01.jpg"
     ]
   },
-  "czvl12": {
-    "name": "CZVL12",
+  "cuib-studio": {
+    "name": "Cuib Studio",
     "byline": "",
-    "address": "Luigi Cazzavillan 12",
-    "gmap": "https://www.google.com/maps/d/u/0/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
-    "facebook": "https://www.facebook.com/CZLV12/",
-    "facebook_event": "https://www.facebook.com/events/356060068155676/",
+    "address": "Piața Rosetti 3",
+    "contacts": [
+      {
+        "type": "url",
+        "value": "http://www.cuibstudio.com/",
+        "display": "cuibstudio.com"
+      }
+    ],
+    "gmap": "https://www.google.com/maps/d/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
+    "facebook": "",
+    "facebook_event": "",
     "images": [
-      "house-czvl-01.jpg"
+      
     ]
   },
   "efden": {
     "name": "EFdeN",
     "byline": "",
     "address": "Pache Protopopescu 66",
-    "gmap": "https://www.google.com/maps/d/u/0/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "nicoleta.varzaru@efden.org",
+        "display": "nicoleta.varzaru@efden.org"
+      },
+      {
+        "type": "phone",
+        "value": "0730452662",
+        "display": "Nicoleta Vărzaru"
+      }
+    ],
+    "gmap": "https://www.google.com/maps/d/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
     "facebook": "https://www.facebook.com/EFdeN.casa.solara.eficienta.energetic/",
-    "facebook_event": "https://www.facebook.com/events/1972236229691895/",
+    "facebook_event": "",
     "images": [
       "house-efden-01.jpg"
     ]
   },
-  "gradina-sticlarilor": {
-    "name": "Gradina Sticlarilor",
+  "gradina-viitorului": {
+    "name": "Gradina Viitorului",
     "byline": "",
-    "address": "Vasile Lascăr 36",
-    "gmap": "https://www.google.com/maps/d/u/0/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
-    "facebook": "https://www.facebook.com/gradinasticlarilor/",
-    "facebook_event": "https://www.facebook.com/events/571003053023303/",
+    "address": "Viitorului 153",
+    "gmap": "https://www.google.com/maps/d/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
+    "facebook": "",
+    "facebook_event": "",
     "images": [
-      "house-gradina-01.jpg"
+      
     ]
   },
   "home-matasari": {
     "name": "Home Matasari",
     "byline": "",
     "address": "Mătăsari 17",
-    "gmap": "https://www.google.com/maps/d/u/0/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
-    "facebook": "",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "iulian@beneva.ro",
+        "display": "iulian@beneva.ro"
+      },
+      {
+        "type": "phone",
+        "value": "0723274436",
+        "display": "Iulian Văcărean"
+      }
+    ],
+    "gmap": "https://www.google.com/maps/d/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
+    "facebook": "https://www.facebook.com/Home-Matasari-111608808922130/?ref=br_rs",
     "facebook_event": "",
     "images": [
-      "house-matasari-01.jpg"
+      "house-homematasari-01.jpg"
     ]
   },
   "insula42": {
     "name": "Insula42",
     "byline": "",
     "address": "Theodor Aman 42",
-    "gmap": "https://www.google.com/maps/d/u/0/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
+    "contacts": [
+      {
+        "type": "email",
+        "value": "cristineagoe@gmail.com",
+        "display": "cristineagoe@gmail.com"
+      },
+      {
+        "type": "phone",
+        "value": "0728987982",
+        "display": "Cristian Neagoe"
+      }
+    ],
+    "gmap": "https://www.google.com/maps/d/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
     "facebook": "https://www.facebook.com/insula42/",
-    "facebook_event": "https://www.facebook.com/events/512712752395409/permalink/516422595357758/",
+    "facebook_event": "",
     "images": [
-      "house-insula-01.jpg"
+      "house-insula42-01.jpg"
     ]
   },
   "manasia-hub": {
     "name": "Manasia Hub",
     "byline": "",
     "address": "Stelea Spătarul 13",
-    "gmap": "https://www.google.com/maps/d/u/0/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
-    "facebook": "https://www.facebook.com/manasiahub/",
-    "facebook_event": "https://www.facebook.com/events/1543699602354492/",
-    "images": [
-      "house-manasia-01.jpg"
-    ]
-  },
-  "sbang": {
-    "name": "SBang",
-    "byline": "",
-    "address": "Jean Louis Calderon 33",
-    "gmap": "https://www.google.com/maps/d/u/0/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
-    "facebook": " https://www.facebook.com/SBangMaker/",
-    "facebook_event": "",
-    "images": [
-      "house-sbang-01.jpg"
-    ]
-  },
-  "scrie-despre-tine": {
-    "name": "Scrie despre tine",
-    "byline": "",
-    "address": "Căderea Bastiliei 56-58",
-    "gmap": "https://www.google.com/maps/d/u/0/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
-    "facebook": "https://www.facebook.com/Scriedespretine/",
-    "facebook_event": "https://www.facebook.com/events/512712752395409/permalink/516456032021081/",
     "contacts": [
       {
-        "type": "url",
-        "value": "https://writeyourselfproject.wordpress.com/",
-        "display": "writeyourselfproject.wordpress.com"
+        "type": "email",
+        "value": "danaberghes@gmail.com ",
+        "display": "danaberghes@gmail.com "
+      },
+      {
+        "type": "phone",
+        "value": "0722502255",
+        "display": "Dana Bergheș"
       }
     ],
+    "gmap": "https://www.google.com/maps/d/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
+    "facebook": "https://www.facebook.com/manasiahub/",
+    "facebook_event": "",
     "images": [
-      "house-room-01.jpg"
+      "house-manasiahub-01.jpg"
     ]
   }
 }

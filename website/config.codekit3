@@ -7,9 +7,10 @@
 		"uuidString": "AED8A963-A4D1-4FBE-AD3D-90672E32BB0A"
 		}
 	],
-"creatorBuild": "25900",
+"creatorBuild": "26680",
 "files": {
 	"\/404.jade": {
+		"cB": 0,
 		"cOD": 1,
 		"ft": 512,
 		"oA": 0,
@@ -26,6 +27,7 @@
 		"oS": 1
 		},
 	"\/_layout.jade": {
+		"cB": 0,
 		"cOD": 1,
 		"ft": 512,
 		"oA": 1,
@@ -34,6 +36,7 @@
 		"oS": 0
 		},
 	"\/_partials\/_footer.jade": {
+		"cB": 0,
 		"cOD": 1,
 		"ft": 512,
 		"oA": 1,
@@ -42,6 +45,7 @@
 		"oS": 0
 		},
 	"\/_partials\/_house.jade": {
+		"cB": 0,
 		"cOD": 1,
 		"ft": 512,
 		"oA": 1,
@@ -986,6 +990,16 @@
 		"sM": 0,
 		"sU": 0
 		},
+	"\/assets\/css\/noaptea.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/assets\/css\/noaptea-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"\/assets\/css\/noaptea.less": {
 		"aP": 0,
 		"bl": 0,
@@ -1004,6 +1018,7 @@
 		"sU": 0
 		},
 	"\/assets\/fonts\/glyphicons-halflings-regular.eot": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/fonts\/glyphicons-halflings-regular.eot",
@@ -1020,96 +1035,112 @@
 		"prP": 0
 		},
 	"\/assets\/fonts\/glyphicons-halflings-regular.ttf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/fonts\/glyphicons-halflings-regular.ttf",
 		"oF": 0
 		},
 	"\/assets\/fonts\/glyphicons-halflings-regular.woff": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/fonts\/glyphicons-halflings-regular.woff",
 		"oF": 0
 		},
 	"\/assets\/fonts\/juraj_chrastina_-_framl-webfont.woff": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/fonts\/juraj_chrastina_-_framl-webfont.woff",
 		"oF": 0
 		},
 	"\/assets\/fonts\/juraj_chrastina_-_framl-webfont.woff2": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/fonts\/juraj_chrastina_-_framl-webfont.woff2",
 		"oF": 0
 		},
 	"\/assets\/fonts\/northbergen-regular-webfont.woff": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/fonts\/northbergen-regular-webfont.woff",
 		"oF": 0
 		},
 	"\/assets\/fonts\/northbergen-regular-webfont.woff2": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/fonts\/northbergen-regular-webfont.woff2",
 		"oF": 0
 		},
 	"\/assets\/fonts\/titillium-bold-webfont.woff": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/fonts\/titillium-bold-webfont.woff",
 		"oF": 0
 		},
 	"\/assets\/fonts\/titillium-bold-webfont.woff2": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/fonts\/titillium-bold-webfont.woff2",
 		"oF": 0
 		},
 	"\/assets\/fonts\/titillium-light-webfont.woff": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/fonts\/titillium-light-webfont.woff",
 		"oF": 0
 		},
 	"\/assets\/fonts\/titillium-light-webfont.woff2": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/fonts\/titillium-light-webfont.woff2",
 		"oF": 0
 		},
 	"\/assets\/fonts\/titillium-regular-webfont.woff": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/fonts\/titillium-regular-webfont.woff",
 		"oF": 0
 		},
 	"\/assets\/fonts\/titillium-regular-webfont.woff2": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/fonts\/titillium-regular-webfont.woff2",
 		"oF": 0
 		},
 	"\/assets\/fonts\/titillium-regularupright-webfont.woff": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/fonts\/titillium-regularupright-webfont.woff",
 		"oF": 0
 		},
 	"\/assets\/fonts\/titillium-regularupright-webfont.woff2": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/fonts\/titillium-regularupright-webfont.woff2",
 		"oF": 0
 		},
 	"\/assets\/fonts\/titillium-semibold-webfont.woff": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/fonts\/titillium-semibold-webfont.woff",
 		"oF": 0
 		},
 	"\/assets\/fonts\/titillium-semibold-webfont.woff2": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/fonts\/titillium-semibold-webfont.woff2",
@@ -1170,41 +1201,45 @@
 		"oT": 1,
 		"q": 100
 		},
-	"\/assets\/images\/house-aici-01.jpg": {
+	"\/assets\/images\/house-avanpost8-01.jpg": {
 		"ft": 16384,
-		"iS": 114670,
+		"iS": 66377,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/assets\/images\/house-aici-01.jpg",
+		"oAP": "\/assets\/images\/house-avanpost8-01.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/assets\/images\/house-avanpost-01.jpg": {
+	"\/assets\/images\/house-carol53-01.jpg": {
 		"ft": 16384,
-		"iS": 65276,
+		"iS": 334413,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/assets\/images\/house-avanpost-01.jpg",
+		"oAP": "\/assets\/images\/house-carol53-01.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/assets\/images\/house-carol-01.jpg": {
+	"\/assets\/images\/house-casajurnalistului-01.jpg": {
 		"ft": 16384,
-		"iS": 32838,
+		"iS": 95797,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/assets\/images\/house-carol-01.jpg",
+		"oAP": "\/assets\/images\/house-casajurnalistului-01.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/assets\/images\/house-cetatea-01.jpg": {
+	"\/assets\/images\/house-casalupu-01.jpg": {
 		"ft": 16384,
-		"iS": 27476,
+		"iS": 28378,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/assets\/images\/house-cetatea-01.jpg",
+		"oAP": "\/assets\/images\/house-casalupu-01.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1213,6 +1248,7 @@
 	"\/assets\/images\/house-colivia-01.jpg": {
 		"ft": 16384,
 		"iS": 274446,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/assets\/images\/house-colivia-01.jpg",
 		"oF": 0,
@@ -1220,21 +1256,12 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/assets\/images\/house-costa-01.jpg": {
+	"\/assets\/images\/house-costaforu-01.jpg": {
 		"ft": 16384,
-		"iS": 353313,
+		"iS": 931296,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/assets\/images\/house-costa-01.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/assets\/images\/house-czvl-01.jpg": {
-		"ft": 16384,
-		"iS": 561801,
-		"oA": 0,
-		"oAP": "\/assets\/images\/house-czvl-01.jpg",
+		"oAP": "\/assets\/images\/house-costaforu-01.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1243,6 +1270,7 @@
 	"\/assets\/images\/house-efden-01.jpg": {
 		"ft": 16384,
 		"iS": 11495200,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/assets\/images\/house-efden-01.jpg",
 		"oF": 0,
@@ -1250,101 +1278,34 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/assets\/images\/house-gradina-01.jpg": {
+	"\/assets\/images\/house-homematasari-01.jpg": {
 		"ft": 16384,
-		"iS": 2098590,
+		"iS": 115967,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/assets\/images\/house-gradina-01.jpg",
+		"oAP": "\/assets\/images\/house-homematasari-01.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/assets\/images\/house-insula-01.jpg": {
+	"\/assets\/images\/house-insula42-01.jpg": {
 		"ft": 16384,
-		"iS": 82050,
+		"iS": 98708,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/assets\/images\/house-insula-01.jpg",
+		"oAP": "\/assets\/images\/house-insula42-01.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/assets\/images\/house-jurnalistului-01.jpg": {
+	"\/assets\/images\/house-manasiahub-01.jpg": {
 		"ft": 16384,
-		"iS": 142834,
+		"iS": 1001591,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/assets\/images\/house-jurnalistului-01.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/assets\/images\/house-lupu-01.jpg": {
-		"ft": 16384,
-		"iS": 26343,
-		"oA": 0,
-		"oAP": "\/assets\/images\/house-lupu-01.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/assets\/images\/house-manasia-01.jpg": {
-		"ft": 16384,
-		"iS": 49041,
-		"oA": 0,
-		"oAP": "\/assets\/images\/house-manasia-01.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/assets\/images\/house-matasari-01.jpg": {
-		"ft": 16384,
-		"iS": 142399,
-		"oA": 0,
-		"oAP": "\/assets\/images\/house-matasari-01.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/assets\/images\/house-modulab-01.jpg": {
-		"ft": 16384,
-		"iS": 176083,
-		"oA": 0,
-		"oAP": "\/assets\/images\/house-modulab-01.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/assets\/images\/house-room-01.jpg": {
-		"ft": 16384,
-		"iS": 67934,
-		"oA": 0,
-		"oAP": "\/assets\/images\/house-room-01.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/assets\/images\/house-sbang-01.jpg": {
-		"ft": 16384,
-		"iS": 235506,
-		"oA": 0,
-		"oAP": "\/assets\/images\/house-sbang-01.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/assets\/images\/house-scrie-01.jpg": {
-		"ft": 16384,
-		"iS": 138937,
-		"oA": 0,
-		"oAP": "\/assets\/images\/house-scrie-01.jpg",
+		"oAP": "\/assets\/images\/house-manasiahub-01.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1438,6 +1399,182 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/assets\/images\/titles\/avanpost8.png": {
+		"ft": 32768,
+		"iS": 43924,
+		"oA": 0,
+		"oAP": "\/assets\/images\/titles\/avanpost8.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/titles\/carol53.png": {
+		"ft": 32768,
+		"iS": 33495,
+		"oA": 0,
+		"oAP": "\/assets\/images\/titles\/carol53.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/titles\/casa-jurnalistului.png": {
+		"ft": 32768,
+		"iS": 66045,
+		"oA": 0,
+		"oAP": "\/assets\/images\/titles\/casa-jurnalistului.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/titles\/casa-lupu.png": {
+		"ft": 32768,
+		"iS": 36979,
+		"oA": 0,
+		"oAP": "\/assets\/images\/titles\/casa-lupu.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/titles\/colivia.png": {
+		"ft": 32768,
+		"iS": 37389,
+		"oA": 0,
+		"oAP": "\/assets\/images\/titles\/colivia.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/titles\/costa-foru.png": {
+		"ft": 32768,
+		"iS": 41497,
+		"oA": 0,
+		"oAP": "\/assets\/images\/titles\/costa-foru.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/titles\/czvl12.png": {
+		"ft": 32768,
+		"iS": 26479,
+		"oA": 0,
+		"oAP": "\/assets\/images\/titles\/czvl12.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/titles\/efden.png": {
+		"ft": 32768,
+		"iS": 28026,
+		"oA": 0,
+		"oAP": "\/assets\/images\/titles\/efden.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/titles\/gradina-sticlarilor.png": {
+		"ft": 32768,
+		"iS": 74592,
+		"oA": 0,
+		"oAP": "\/assets\/images\/titles\/gradina-sticlarilor.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/titles\/gradina-viitorului.png": {
+		"ft": 32768,
+		"iS": 57181,
+		"oA": 0,
+		"oAP": "\/assets\/images\/titles\/gradina-viitorului.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/titles\/home-matasari.png": {
+		"ft": 32768,
+		"iS": 55828,
+		"oA": 0,
+		"oAP": "\/assets\/images\/titles\/home-matasari.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/titles\/insula42.png": {
+		"ft": 32768,
+		"iS": 29671,
+		"oA": 0,
+		"oAP": "\/assets\/images\/titles\/insula42.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/titles\/manasia-hub.png": {
+		"ft": 32768,
+		"iS": 43172,
+		"oA": 0,
+		"oAP": "\/assets\/images\/titles\/manasia-hub.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/titles\/sbang.png": {
+		"ft": 32768,
+		"iS": 28055,
+		"oA": 0,
+		"oAP": "\/assets\/images\/titles\/sbang.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/titles\/scrie-despre-tine.jpg": {
+		"ft": 16384,
+		"iS": 40594,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/assets\/images\/titles\/scrie-despre-tine.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/titles\/scrie-despre-tine.png": {
+		"ft": 32768,
+		"iS": 59565,
+		"oA": 0,
+		"oAP": "\/assets\/images\/titles\/scrie-despre-tine.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/assets\/js\/app-min.js": {
 		"ft": 64,
 		"ma": 0,
@@ -1456,7 +1593,17 @@
 		"oO": 0,
 		"oS": 1
 		},
+	"\/houses\/atelier-lsm.jade": {
+		"cB": 0,
+		"cOD": 1,
+		"ft": 512,
+		"oA": 0,
+		"oAP": "\/houses\/atelier-lsm.html",
+		"oF": 0,
+		"oS": 0
+		},
 	"\/houses\/avanpost8.jade": {
+		"cB": 0,
 		"cOD": 1,
 		"ft": 512,
 		"oA": 0,
@@ -1465,6 +1612,7 @@
 		"oS": 0
 		},
 	"\/houses\/carol53.jade": {
+		"cB": 0,
 		"cOD": 1,
 		"ft": 512,
 		"oA": 0,
@@ -1472,7 +1620,35 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"\/houses\/casa-activistului.jade": {
+		"cB": 0,
+		"cOD": 1,
+		"ft": 512,
+		"oA": 0,
+		"oAP": "\/houses\/casa-activistului.html",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/houses\/casa-conspirativa.jade": {
+		"cB": 0,
+		"cOD": 1,
+		"ft": 512,
+		"oA": 0,
+		"oAP": "\/houses\/casa-conspirativa.html",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/houses\/casa-doda.jade": {
+		"cB": 0,
+		"cOD": 1,
+		"ft": 512,
+		"oA": 0,
+		"oAP": "\/houses\/casa-doda.html",
+		"oF": 0,
+		"oS": 0
+		},
 	"\/houses\/casa-jurnalistului.jade": {
+		"cB": 0,
 		"cOD": 1,
 		"ft": 512,
 		"oA": 0,
@@ -1481,6 +1657,7 @@
 		"oS": 0
 		},
 	"\/houses\/casa-lupu.jade": {
+		"cB": 0,
 		"cOD": 1,
 		"ft": 512,
 		"oA": 0,
@@ -1488,15 +1665,8 @@
 		"oF": 0,
 		"oS": 0
 		},
-	"\/houses\/cetatea-artelor.jade": {
-		"cOD": 1,
-		"ft": 512,
-		"oA": 0,
-		"oAP": "\/houses\/cetatea-artelor.html",
-		"oF": 0,
-		"oS": 0
-		},
 	"\/houses\/colivia.jade": {
+		"cB": 0,
 		"cOD": 1,
 		"ft": 512,
 		"oA": 0,
@@ -1505,6 +1675,7 @@
 		"oS": 0
 		},
 	"\/houses\/costa-foru.jade": {
+		"cB": 0,
 		"cOD": 1,
 		"ft": 512,
 		"oA": 0,
@@ -1512,15 +1683,17 @@
 		"oF": 0,
 		"oS": 0
 		},
-	"\/houses\/czvl12.jade": {
+	"\/houses\/cuib-studio.jade": {
+		"cB": 0,
 		"cOD": 1,
 		"ft": 512,
 		"oA": 0,
-		"oAP": "\/houses\/czvl12.html",
+		"oAP": "\/houses\/cuib-studio.html",
 		"oF": 0,
 		"oS": 0
 		},
 	"\/houses\/efden.jade": {
+		"cB": 0,
 		"cOD": 1,
 		"ft": 512,
 		"oA": 0,
@@ -1528,15 +1701,17 @@
 		"oF": 0,
 		"oS": 0
 		},
-	"\/houses\/gradina-sticlarilor.jade": {
+	"\/houses\/gradina-viitorului.jade": {
+		"cB": 0,
 		"cOD": 1,
 		"ft": 512,
 		"oA": 0,
-		"oAP": "\/houses\/gradina-sticlarilor.html",
+		"oAP": "\/houses\/gradina-viitorului.html",
 		"oF": 0,
 		"oS": 0
 		},
 	"\/houses\/home-matasari.jade": {
+		"cB": 0,
 		"cOD": 1,
 		"ft": 512,
 		"oA": 0,
@@ -1545,6 +1720,7 @@
 		"oS": 0
 		},
 	"\/houses\/insula42.jade": {
+		"cB": 0,
 		"cOD": 1,
 		"ft": 512,
 		"oA": 0,
@@ -1553,6 +1729,7 @@
 		"oS": 0
 		},
 	"\/houses\/manasia-hub.jade": {
+		"cB": 0,
 		"cOD": 1,
 		"ft": 512,
 		"oA": 0,
@@ -1560,31 +1737,8 @@
 		"oF": 0,
 		"oS": 0
 		},
-	"\/houses\/modulab.jade": {
-		"cOD": 1,
-		"ft": 512,
-		"oA": 0,
-		"oAP": "\/houses\/modulab.html",
-		"oF": 0,
-		"oS": 0
-		},
-	"\/houses\/sbang.jade": {
-		"cOD": 1,
-		"ft": 512,
-		"oA": 0,
-		"oAP": "\/houses\/sbang.html",
-		"oF": 0,
-		"oS": 0
-		},
-	"\/houses\/scrie-despre-tine.jade": {
-		"cOD": 1,
-		"ft": 512,
-		"oA": 0,
-		"oAP": "\/houses\/scrie-despre-tine.html",
-		"oF": 0,
-		"oS": 0
-		},
 	"\/index.jade": {
+		"cB": 0,
 		"cOD": 1,
 		"ft": 512,
 		"oA": 0,
@@ -1601,10 +1755,10 @@
 		"oS": 1
 		},
 	"\/posts\/hello-markdown.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -1619,6 +1773,7 @@
 		"uCM": 0
 		},
 	"\/posts\/hello-world.jade": {
+		"cB": 0,
 		"cOD": 1,
 		"ft": 512,
 		"oA": 0,
@@ -1673,7 +1828,8 @@
 	"creationDate": 527598149,
 	"displayValue": "public",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "meme-cocaine"
+	"iconImageName": "meme-cocaine",
+	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -1681,6 +1837,7 @@
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
 	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
+	"autoprefixerEnableIEGrid": 0,
 	"babelAuxiliaryCommentAfter": "",
 	"babelAuxiliaryCommentBefore": "",
 	"babelConfigFileHandlingType": 0,
@@ -2209,6 +2366,10 @@
 			"active": 0,
 			"optionString": "'expression'"
 			},
+		"function-paren-newline": {
+			"active": 0,
+			"optionString": "'multiline'"
+			},
 		"generator-star-spacing": {
 			"active": 0,
 			"optionString": "{'before': true, 'after': false}"
@@ -2240,6 +2401,10 @@
 		"id-match": {
 			"active": 0,
 			"optionString": "'^[a-z]+([A-Z][a-z]+)*$', {'properties': false, 'onlyDeclarations': true}"
+			},
+		"implicit-arrow-linebreak": {
+			"active": 0,
+			"optionString": "'beside'"
 			},
 		"indent": {
 			"active": 0,
@@ -2273,9 +2438,9 @@
 			"active": 0,
 			"optionString": "{'beforeBlockComment': true}"
 			},
-		"lines-around-directive": {
+		"lines-between-class-members": {
 			"active": 0,
-			"optionString": "{'before': 'always', 'after': 'always'}"
+			"optionString": "'always', {exceptAfterSingleLine: false}"
 			},
 		"max-depth": {
 			"active": 0,
@@ -2305,6 +2470,10 @@
 			"active": 0,
 			"optionString": "{'max': 1}"
 			},
+		"multiline-comment-style": {
+			"active": 0,
+			"optionString": "'starred-block'"
+			},
 		"multiline-ternary": {
 			"active": 0,
 			"optionString": "'always'"
@@ -2314,14 +2483,6 @@
 			"optionString": "{'newIsCap': true, 'capIsNew': true, 'newIsCapExceptions': [], 'capIsNewExceptions': ['Array', 'Boolean', 'Date', 'Error', 'Function', 'Number', 'Object', 'RegExp', 'String', 'Symbol'], 'properties': true}"
 			},
 		"new-parens": {
-			"active": 0,
-			"optionString": ""
-			},
-		"newline-after-var": {
-			"active": 0,
-			"optionString": "'always'"
-			},
-		"newline-before-return": {
 			"active": 0,
 			"optionString": ""
 			},
@@ -3425,7 +3586,8 @@
 		"createSourceMap": 0,
 		"minifyOutput": 1,
 		"outputStyle": 0,
-		"syntaxCheckerStyle": 1
+		"syntaxCheckerStyle": 1,
+		"transpilerStyle": 1
 		},
 	"languageDefaultsCSS": {
 		"autoOutputAction": 0,
@@ -3458,6 +3620,7 @@
 		"noEscapeInAttributes": 0,
 		"outputFormat": 2,
 		"outputStyle": 0,
+		"shouldRunCacheBuster": 0,
 		"useCDATA": 0,
 		"useDoubleQuotes": 0,
 		"useUnixNewlines": 0
@@ -3469,6 +3632,7 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
+		"outputFormat": 0,
 		"quality": 100
 		},
 	"languageDefaultsJS": {
@@ -3499,7 +3663,8 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsLESS": {
 		"allowInsecureImports": 0,
@@ -3531,13 +3696,13 @@
 		"enableFootnotes": 1,
 		"enableLabels": 1,
 		"enableSmartQuotes": 1,
-		"escapeLineBreaks": 0,
 		"maskEmailAddresses": 1,
 		"outputFormat": 0,
 		"outputStyle": 0,
 		"parseMetadata": 1,
 		"processHTML": 0,
 		"randomFootnoteNumbers": 0,
+		"shouldRunCacheBuster": 0,
 		"useCompatibilityMode": 0
 		},
 	"languageDefaultsOTHER": {
@@ -3546,7 +3711,8 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsPNG": {
 		"autoOutputAction": 0,
@@ -3566,7 +3732,8 @@
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
 		"compileDebug": 1,
-		"outputStyle": 0
+		"outputStyle": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsSASS": {
 		"autoOutputAction": 0,
@@ -3594,7 +3761,8 @@
 		"logicless": 0,
 		"outputFormat": 0,
 		"outputStyle": 1,
-		"railsCompatible": 0
+		"railsCompatible": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsSTYLUS": {
 		"autoOutputAction": 0,
