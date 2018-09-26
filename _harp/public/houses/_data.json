@@ -5,7 +5,7 @@
     "address": "Vasile Lascăr 39",
     "gmap": "https://www.google.com/maps/d/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
     "facebook": "https://www.facebook.com/pages/Atelier-Lucian-Sandu-Milea/173020900027371",
-    "facebook_event": "",
+    "facebook_event": "https://www.facebook.com/events/1532323983534081/",
     "images": [
     ]
   },
@@ -63,7 +63,7 @@
     "facebook": "https://www.facebook.com/CasaActivistului/",
     "facebook_event": "",
     "images": [
-      
+      "house-casa-activistului-01.jpg"
     ]
   },
   "casa-conspirativa": {
@@ -74,18 +74,25 @@
     "facebook": "https://www.facebook.com/CasaConspirativa/",
     "facebook_event": "",
     "images": [
-      
+      "house-casa-conspirativa-01.jpg"
     ]
   },
   "casa-doda": {
     "name": "Casa Doda",
     "byline": "",
     "address": "General Doda Traian 3",
+    "contacts": [
+      {
+        "type": "phone",
+        "value": "0724205110",
+        "display": "Bogdan Deliu"
+      }
+    ],
     "gmap": "https://www.google.com/maps/d/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
     "facebook": "https://m.facebook.com/atelierdepielarie/",
     "facebook_event": "",
     "images": [
-      
+      "house-casa-doda-01.jpg"
     ]
   },
   "casa-jurnalistului": {
@@ -105,33 +112,33 @@
       }
     ],
     "gmap": "https://www.google.com/maps/d/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/casa.jurnalistului/",
     "facebook_event": "",
     "images": [
       "house-casajurnalistului-01.jpg"
     ]
   },
-  "casa-lupu": {
-    "name": "Casa Lupu",
+  "casa-shukar": {
+    "name": "Casa Shukar",
     "byline": "",
-    "address": "Dionisie Lupu 31",
+    "address": "Plantelor 25",
     "contacts": [
       {
         "type": "email",
-        "value": "lorant.mihat@calup.ro",
-        "display": "lorant.mihat@calup.ro"
+        "value": "timea.hont@gmail.com",
+        "display": "timea.hont@gmail.com"
       },
       {
         "type": "phone",
-        "value": "0723316002",
-        "display": "Lorant Mihat"
+        "value": "0753185677",
+        "display": "Timea Honț"
       }
-    ],    
+    ],
     "gmap": "https://www.google.com/maps/d/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
-    "facebook": "https://www.facebook.com/Casa-Lupu-706034536194545/",
+    "facebook": "https://www.facebook.com/plantelor25HUB/",
     "facebook_event": "",
     "images": [
-      "house-casalupu-01.jpg"
+      "house-casa-shukar-01.png"
     ]
   },
   "colivia": {
@@ -230,52 +237,6 @@
     "facebook_event": "",
     "images": [
       
-    ]
-  },
-  "home-matasari": {
-    "name": "Home Matasari",
-    "byline": "",
-    "address": "Mătăsari 17",
-    "contacts": [
-      {
-        "type": "email",
-        "value": "iulian@beneva.ro",
-        "display": "iulian@beneva.ro"
-      },
-      {
-        "type": "phone",
-        "value": "0723274436",
-        "display": "Iulian Văcărean"
-      }
-    ],
-    "gmap": "https://www.google.com/maps/d/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
-    "facebook": "https://www.facebook.com/Home-Matasari-111608808922130/?ref=br_rs",
-    "facebook_event": "",
-    "images": [
-      "house-homematasari-01.jpg"
-    ]
-  },
-  "insula42": {
-    "name": "Insula42",
-    "byline": "",
-    "address": "Theodor Aman 42",
-    "contacts": [
-      {
-        "type": "email",
-        "value": "cristineagoe@gmail.com",
-        "display": "cristineagoe@gmail.com"
-      },
-      {
-        "type": "phone",
-        "value": "0728987982",
-        "display": "Cristian Neagoe"
-      }
-    ],
-    "gmap": "https://www.google.com/maps/d/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
-    "facebook": "https://www.facebook.com/insula42/",
-    "facebook_event": "",
-    "images": [
-      "house-insula42-01.jpg"
     ]
   },
   "manasia-hub": {
