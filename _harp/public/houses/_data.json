@@ -14,16 +14,6 @@
     "byline": "",
     "address": "Crăciun 8",
     "contacts": [
-      {
-        "type": "email",
-        "value": "avanpost8@gmail.com",
-        "display": "avanpost8@gmail.com"
-      },
-      {
-        "type": "phone",
-        "value": "0723494797",
-        "display": "David"
-      }
     ],
     "gmap": "https://www.google.com/maps/d/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
     "facebook": "https://www.facebook.com/avanpost8/",
@@ -37,16 +27,6 @@
     "byline": "",
     "address": "Carol I. 53",
     "contacts": [
-      {
-        "type": "email",
-        "value": "casacarol53@gmail.com",
-        "display": "casacarol53@gmail.com"
-      },
-      {
-        "type": "phone",
-        "value": "0742537986",
-        "display": "Lucian Sandu-Milea"
-      }
     ],
     "gmap": "https://www.google.com/maps/d/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
     "facebook": "https://www.facebook.com/casacarol53/",
@@ -82,11 +62,6 @@
     "byline": "",
     "address": "General Doda Traian 3",
     "contacts": [
-      {
-        "type": "phone",
-        "value": "0724205110",
-        "display": "Bogdan Deliu"
-      }
     ],
     "gmap": "https://www.google.com/maps/d/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
     "facebook": "https://m.facebook.com/atelierdepielarie/",
@@ -100,16 +75,6 @@
     "byline": "",
     "address": "Viitorului 154",
     "contacts": [
-      {
-        "type": "email",
-        "value": "timea.hont@gmail.com",
-        "display": "timea.hont@gmail.com"
-      },
-      {
-        "type": "phone",
-        "value": "0753185677",
-        "display": "Timea Honț"
-      }
     ],
     "gmap": "https://www.google.com/maps/d/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
     "facebook": "https://www.facebook.com/casa.jurnalistului/",
@@ -123,16 +88,6 @@
     "byline": "",
     "address": "Plantelor 25",
     "contacts": [
-      {
-        "type": "email",
-        "value": "timea.hont@gmail.com",
-        "display": "timea.hont@gmail.com"
-      },
-      {
-        "type": "phone",
-        "value": "0753185677",
-        "display": "Timea Honț"
-      }
     ],
     "gmap": "https://www.google.com/maps/d/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
     "facebook": "https://www.facebook.com/plantelor25HUB/",
@@ -146,16 +101,6 @@
     "byline": "",
     "address": "Pache Protopopescu 9",
     "contacts": [
-      {
-        "type": "email",
-        "value": "cosmin@funky.ong",
-        "display": "cosmin@funky.ong"
-      },
-      {
-        "type": "phone",
-        "value": "0799777480",
-        "display": "Cosmin Pojoranu"
-      }
     ],
     "gmap": "https://www.google.com/maps/d/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
     "facebook": "https://www.facebook.com/ColiviaLuVrabioiu/",
@@ -169,16 +114,6 @@
     "byline": "",
     "address": "Aleea Dealul Mitropoliei 7",
     "contacts": [
-      {
-        "type": "email",
-        "value": "casacostaforu@gmail.com",
-        "display": "casacostaforu@gmail.com"
-      },
-      {
-        "type": "phone",
-        "value": "0721155522",
-        "display": "Lucian Bărăitaru"
-      }
     ],
     "gmap": "https://www.google.com/maps/d/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
     "facebook": "https://www.facebook.com/casacostaforu7/",
@@ -210,16 +145,6 @@
     "byline": "",
     "address": "Pache Protopopescu 66",
     "contacts": [
-      {
-        "type": "email",
-        "value": "nicoleta.varzaru@efden.org",
-        "display": "nicoleta.varzaru@efden.org"
-      },
-      {
-        "type": "phone",
-        "value": "0730452662",
-        "display": "Nicoleta Vărzaru"
-      }
     ],
     "gmap": "https://www.google.com/maps/d/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
     "facebook": "https://www.facebook.com/EFdeN.casa.solara.eficienta.energetic/",
@@ -244,16 +169,6 @@
     "byline": "",
     "address": "Stelea Spătarul 13",
     "contacts": [
-      {
-        "type": "email",
-        "value": "danaberghes@gmail.com ",
-        "display": "danaberghes@gmail.com "
-      },
-      {
-        "type": "phone",
-        "value": "0722502255",
-        "display": "Dana Bergheș"
-      }
     ],
     "gmap": "https://www.google.com/maps/d/viewer?mid=1bS7E6V6SORxs2UeDWkOqCsQgzVk",
     "facebook": "https://www.facebook.com/manasiahub/",
